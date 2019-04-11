@@ -1,5 +1,5 @@
 {
   "nodes": [
-    "mainnet.wmcc.network"
+    "mainnet.wmcc.network:8880"
   ]
 }
