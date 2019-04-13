@@ -1,5 +1,7 @@
 {
   "nodes": [
-    "mainnet.wmcc.network:8880"
+    "mainnet.wmcc.network:8880",
+    "mainnet.wmccexplorer.com:8880",
+    "mainnet.wmccexplorer.info:8880"
   ]
 }
